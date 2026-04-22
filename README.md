@@ -17,7 +17,7 @@ How to Run
 3. Run:
    python farecalc.py
 
-Example
+Example:
 Enter distance in km: 10  
 Enter vehicle type: Economy  
 Enter hour: 18  
